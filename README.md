@@ -1,5 +1,5 @@
-Frontend
+Frontend:
 
-Backend
+Backend:
 
 Tech stack: 
